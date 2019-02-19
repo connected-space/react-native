@@ -53,7 +53,7 @@ module.exports = {
       localPath: file,
       options: {
         dev: true,
-        inlineRequires: true,
+        inlineRequires: false,
         minify: false,
         platform: '',
         projectRoot: '',
